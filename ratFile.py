@@ -1,5 +1,5 @@
 from random import uniform
-from main import MUTATE_MIN, MUTATE_MAX
+from L1main import MUTATE_MIN, MUTATE_MAX
 
 class Rat:
   def __init__(self, sex, weight):

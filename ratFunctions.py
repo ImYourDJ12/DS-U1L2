@@ -1,4 +1,4 @@
-from main import *
+from L1main import *
 from ratFile import *
 from random import triangular, choice, random, uniform, shuffle
 
